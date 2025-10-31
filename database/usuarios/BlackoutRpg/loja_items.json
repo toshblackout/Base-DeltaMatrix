@@ -1,0 +1,6 @@
+[
+  { "id": "paozinho", "nome": "Pãozinho", "descricao": "Rende um pouco de energia.", "preco": 10, "vendavel": true },
+  { "id": "agua", "nome": "Garrafa d'água", "descricao": "Hidrata.", "preco": 8, "vendavel": true },
+  { "id": "casa", "nome": "Casa pequena", "descricao": "Imóvel básico (banco imobiliário).", "preco": 2000, "vendavel": true, "unico": false },
+  { "id": "mansao", "nome": "Mansão", "descricao": "Imóvel luxuoso.", "preco": 15000, "vendavel": true, "unico": true }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "plvr": "programacao",
+    "dica": "O que o Toshiruz Dev domina!",
+    "tema": "Tecnologia"
+  },
+  {
+    "plvr": "matrix",
+    "dica": "Sistema do Base-Delta",
+    "tema": "Filmes"
+  },
+  {
+    "plvr": "javascript",
+    "dica": "Linguagem que o bot usa",
+    "tema": "Programação"
+  },
+  {
+    "plvr": "konosuba",
+    "dica": "Anime cheio de confusões e risadas",
+    "tema": "Anime"
+  },
+  {
+    "plvr": "yorha",
+    "dica": "Nome do projeto do seu bot",
+    "tema": "Bot"
+  },
+  {
+    "plvr": "elefante",
+    "dica": "Maior mamífero terrestre",
+    "tema": "Animais"
+  },
+  {
+    "plvr": "gato",
+    "dica": "Animal doméstico que adora dormir",
+    "tema": "Animais"
+  },
+  {
+    "plvr": "cachorro",
+    "dica": "Melhor amigo do homem",
+    "tema": "Animais"
+  },
+  {
+    "plvr": "tigre",
+    "dica": "Felino listrado e caçador",
+    "tema": "Animais"
+  },
+  {
+    "plvr": "papagaio",
+    "dica": "Ave que gosta de imitar a voz humana",
+    "tema": "Animais"
+  },
+  {
+    "plvr": "tokyo",
+    "dica": "Capital do Japão",
+    "tema": "Cidades"
+  },
+  {
+    "plvr": "paris",
+    "dica": "Cidade do amor e da Torre Eiffel",
+    "tema": "Cidades"
+  },
+  {
+    "plvr": "rio",
+    "dica": "Cidade maravilhosa do Brasil",
+    "tema": "Cidades"
+  },
+  {
+    "plvr": "londres",
+    "dica": "Cidade do Big Ben",
+    "tema": "Cidades"
+  },
+  {
+    "plvr": "nova york",
+    "dica": "Cidade dos arranha-céus",
+    "tema": "Cidades"
+  },
+  {
+    "plvr": "toshiruz",
+    "dica": "Desenvolvedor lendário do Base-Delta",
+    "tema": "Nomes"
+  },
+  {
+    "plvr": "ricky",
+    "dica": "Nome de um dos bots criados pelo Toshiruz",
+    "tema": "Nomes"
+  },
+  {
+    "plvr": "sofia",
+    "dica": "Nome popular e delicado",
+    "tema": "Nomes"
+  },
+  {
+    "plvr": "gabriel",
+    "dica": "Anjo e nome muito usado",
+    "tema": "Nomes"
+  },
+  {
+    "plvr": "lucas",
+    "dica": "Nome masculino bastante comum",
+    "tema": "Nomes"
+  },
+  {
+    "plvr": "pizza",
+    "dica": "Comida italiana com molho e queijo",
+    "tema": "Comidas"
+  },
+  {
+    "plvr": "hamburguer",
+    "dica": "Pão, carne e queijo — combinação perfeita",
+    "tema": "Comidas"
+  },
+  {
+    "plvr": "sushi",
+    "dica": "Prato japonês feito com arroz e peixe cru",
+    "tema": "Comidas"
+  },
+  {
+    "plvr": "chocolate",
+    "dica": "Doce feito de cacau, irresistível",
+    "tema": "Comidas"
+  },
+  {
+    "plvr": "lasanha",
+    "dica": "Prato em camadas com molho e queijo",
+    "tema": "Comidas"
+  },
+  {
+    "plvr": "vermelho",
+    "dica": "Cor do amor e da paixão",
+    "tema": "Cores"
+  },
+  {
+    "plvr": "azul",
+    "dica": "Cor do céu e do mar",
+    "tema": "Cores"
+  },
+  {
+    "plvr": "verde",
+    "dica": "Cor da natureza e da esperança",
+    "tema": "Cores"
+  },
+  {
+    "plvr": "amarelo",
+    "dica": "Cor do sol",
+    "tema": "Cores"
+  },
+  {
+    "plvr": "preto",
+    "dica": "Cor da noite e da elegância",
+    "tema": "Cores"
+  },
+  {
+    "plvr": "celular",
+    "dica": "Dispositivo que usamos o dia todo",
+    "tema": "Objetos"
+  },
+  {
+    "plvr": "computador",
+    "dica": "Ferramenta essencial para programar",
+    "tema": "Objetos"
+  },
+  {
+    "plvr": "teclado",
+    "dica": "Usado para digitar",
+    "tema": "Objetos"
+  },
+  {
+    "plvr": "mouse",
+    "dica": "Apontador usado junto ao computador",
+    "tema": "Objetos"
+  }
+]

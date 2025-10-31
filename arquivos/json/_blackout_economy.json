@@ -1,0 +1,40 @@
+{
+  "users": {
+    "60374908969045@lid": {
+      "coins": 505,
+      "xp": 10,
+      "msgs": 1,
+      "level": 0,
+      "lastReward": 0,
+      "lastDaily": 1760694181055,
+      "patente": "Aspirante"
+    },
+    "120363420535335434@g.us": {
+      "coins": 590,
+      "xp": 180,
+      "msgs": 18,
+      "level": 0,
+      "lastReward": 0,
+      "lastDaily": 1760694182402,
+      "patente": "Aspirante"
+    },
+    "36280276648189@lid": {
+      "coins": 510,
+      "xp": 20,
+      "msgs": 2,
+      "level": 0,
+      "lastReward": 0,
+      "lastDaily": 1760694222466,
+      "patente": "Aspirante"
+    }
+  },
+  "groups": {},
+  "shop": [
+    {
+      "id": "vip1",
+      "name": "VIP 1 dia",
+      "price": 500,
+      "desc": "Acesso VIP por 1 dia (exemplo)"
+    }
+  ]
+}
